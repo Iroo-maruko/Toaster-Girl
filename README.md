@@ -121,3 +121,22 @@ Member B: Boss enemy, phase-based skills and effects
 | `Assets/Scripts/UI/EnemyHealthBar.cs` | Enemy health bar UI logic         |
 | `Assets/Scripts/Enemy/Health.cs`      | Health management for all enemies |
 
+
+
+13/3
+<img width="1675" alt="image" src="https://github.com/user-attachments/assets/ac992861-330b-46ab-b47f-e95df32deefb" />
+<img width="1675" alt="image" src="https://github.com/user-attachments/assets/f607f29e-4995-4100-894c-f62da0a08152" />
+
+27/3
+<img width="1674" alt="image" src="https://github.com/user-attachments/assets/790e3744-8e34-471a-abd4-6ba0bf2a52f6" />
+
+10/4
+<img width="1673" alt="image" src="https://github.com/user-attachments/assets/ec793a4b-c55d-4125-ac2f-3f59bab2094d" />
+
+24/4
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/aa38523b-74db-4021-8c2c-b217cf4287f8" />
+
+15/5
+<img width="1685" alt="image" src="https://github.com/user-attachments/assets/c98b5758-d82d-4f30-83e5-637192782a32" />
+<img width="1681" alt="image" src="https://github.com/user-attachments/assets/64613e03-f4f9-4fbf-af0f-5228f2796cfc" />
+
