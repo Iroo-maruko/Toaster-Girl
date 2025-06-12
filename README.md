@@ -30,12 +30,15 @@ Toaster-Girl은 2.5D 기반 게임이며 배경과 요소들은 3D로 구성되�
 
 drop
 sprint 1
+
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/b4dfa13e-25d7-43a7-ad45-b114ad24a00b" />
 
 design that sara made
+
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/fa26d119-0a73-4c86-ad0d-4cd737e22a8d" />
 
 detail design and bee hive
+
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/543e2cb7-c4b8-4c95-a7d5-fa2cbbbfb3e1" />
 
 detect
@@ -48,10 +51,7 @@ https://github.com/user-attachments/assets/0ea20e42-da7f-4759-a32a-db759684f76e
 
 detect and spray
 (detect, follow, spray)
-![detect and follow](https://github.com/user-attachments/assets/550585b3-f758-4d69-98fb-2a8e0fb657b6)
-
-<img width="469" alt="followplayer spray" src="https://github.com/user-attachments/assets/b4358486-6fb4-46b7-8736-a4df4e6b2cf8" />
-https://github.com/user-attachments/assets/d1246ca7-0885-4ec6-b83c-f1e7f88acd80
+![detect and follow](https://github.com/user-attachments/assets/550585b3-f758-4d69-98fb-2a8e0fb657b6) <img width="469" alt="followplayer spray" src="https://github.com/user-attachments/assets/b4358486-6fb4-46b7-8736-a4df4e6b2cf8" /> https://github.com/user-attachments/assets/d1246ca7-0885-4ec6-b83c-f1e7f88acd80
 
 
 ## 🪫 Enemy Health Bar UI System
